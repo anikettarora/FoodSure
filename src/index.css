@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-weight: bold;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.navbar-custom {
+  background-color: rgb(255, 167, 38);
+}
+.bttn-custom {
+  background-color: rgb(255, 167, 38);
+}
+#carousel{
+  max-height: 500px;
 }
